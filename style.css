@@ -1,0 +1,58 @@
+
+
+#myheader {
+   background-color: dodgerblue;
+   color: white;
+   padding: 10px;
+   text-align: left;
+}
+
+
+
+ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #1E90FF;
+
+}
+
+
+#hidden {
+   background-color: dodgerblue;
+   color: white;
+   padding: 10px;
+   text-align: left;}
+
+
+div.ex1 {
+  width: 300px;
+  box-sizing: border-box;
+  background-color: orange;
+}
+div p{
+  padding:25px
+}
+
+
+
+
+
